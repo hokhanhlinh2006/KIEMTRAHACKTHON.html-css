@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 30px;
+
+}
+.header{
+    text-align: right;
+    padding: 20px;
+}
+.main{
+    margin: 30px;
+    top: 96px;
+    right: 80px;
+    bottom: 96px;
+    left: 80px;
+}
+.download{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    width: 136px;
+    height: 36px;
+
+}
+.img{
+    text-align: right;
+    position: absolute;
+    top: 90px;
+    right: 400px;
+    left: 100px;
+
+}
+.butoon{
+    text-align: center;
+    background-color: rgb(188, 188, 187); 
+    border-radius: 12px;
+    width: 75px;
+    height: 28px;
+   display: flex;
+   justify-content: center;
+}
+.footer_img{
+    display: flex;
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    background-color: rgb(188, 188, 187); 
+    border-radius: 12px;
+    width: 75px;
+    height: 28px;
+
+}
+.height{
+    border-radius: 200px;
+}
+.fiskil{
+    text-align: left;
+    position: absolute;
+    top: 900px;
+    right: 70px;
+}
+.react{
+    display: flex;
+    width: 480px;
+    height: 28px;
+    gap: 8px;
+    text-align: right;
+}
+.width{
+    text-align: right;
+    border-radius: 200px;
+}
+.end{
+    text-align: center;
+}
+.some{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.ipsum{
+    position: absolute;
+    left: 35px;
+    top: 1400px;
+}
